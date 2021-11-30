@@ -1,0 +1,2 @@
+# SortTime Program
+Takes a number from input and grabs that many words from the manywords100k.txt file. Program then sorts those words alphebetically and prints how long it took. Includes an Excel spreadsheet with a graph for various numbers and the time it took.
